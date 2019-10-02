@@ -7,4 +7,4 @@ we will add js file later
 the js file name will be third.js
 and GSI is js bases site project
 site hosting location is not yes specified
-after development site will be hosted
+new situtation testing
