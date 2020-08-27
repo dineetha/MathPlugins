@@ -1,4 +1,4 @@
-# MathsPlugins
+# MathPlugins
 ## A simple plug-in system example for Windows desktop applications written in C#
 
 This repository contains code for example plug-in system that loads DLL assemblies at runtime. Without changing source code of the program new plug-ins can be added. This code is published for educational purposes for those who are learning C#, .NET technologies and specially trying to implement a plug-in architecture.
